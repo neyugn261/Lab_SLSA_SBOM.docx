@@ -1,0 +1,21 @@
+{
+  "name": "lab_slsa_sbom.docx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neyugn261/Lab_SLSA_SBOM.docx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/neyugn261/Lab_SLSA_SBOM.docx/issues"
+  },
+  "homepage": "https://github.com/neyugn261/Lab_SLSA_SBOM.docx#readme"
+}
